@@ -1,7 +1,9 @@
+import Show from "./Components/Show";
+
 function App() {
   return (
     <div className="App">
-      <h1>Redux</h1>
+      <Show/>
     </div>
   );
 }
